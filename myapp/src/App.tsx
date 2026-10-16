@@ -1,7 +1,7 @@
 function App() {
   let isTeacher: boolean = false;
-  const name: string = "Shrut";
-  let age: number = 16;
+  const name: string = "umar";
+  let age: number = 14;
   //UI
   return (
     <form style={{
